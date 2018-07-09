@@ -10,10 +10,7 @@ Full-stack junior software developer with an interest in back-end and DevOps. I 
   Having to work in teams and pair programming throughout the course, my communication skills have improved greatly. I am confident with explaining concepts in an understandable way, and work well in teams - I enjoyed working on our team final project and adopting the Agile workflow. I have also learned how to give and receive constructive feedback.
 
 - Software craftsmanship:<br>
-  There was always focus on TDD and XP values in the projects I've done. I have improved my skills for writing clean, quality code that can be understood and used by others.
-
-- Problem solving:<br>
-  ...
+  There was always focus on TDD and XP values in the projects I've done. I have improved my skills for writing clean, quality code that can be understood and used by others, because I would want to see that in others' work.
 
 ## Education
 
@@ -39,4 +36,6 @@ Full-stack junior software developer with an interest in back-end and DevOps. I 
 
 ## Interests
 
-TBC...
+I'm quite the adventurous type and always enjoy learning and discovering new things, places and meeting people, which is why travel is a big passion for me. I spent most of 2017 travelling in Europe.
+
+Sports is a huge part of my life, I have been practising yoga and Martial Arts for a while now, and recently (thanks to Makers) have recovered my ping-pong skills, and have started climbing. I also skydive occasionally when I get the chance, and I highly recommend the experience!
