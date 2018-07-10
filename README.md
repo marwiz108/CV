@@ -2,6 +2,14 @@
 
 Full-stack junior software developer with an interest in back-end and DevOps. I am passionate about equality of all forms and women's rights, and I hope to make meaningful contributions to the rise in women in tech, as well as women in more senior positions. I am looking for full-stack or back-end heavy roles, preferably with a varied tech stack, as it will allow me to expand my knowledge and explore different kinds of technologies. I am keen on working in a friendly and supportive environment, where I can develop my skillset and grow as a valuable member of the company.
 
+## Projects
+ | Project       | Summary       | Technologies  | Link |
+ | ------------- |---------------| --------------|---------|
+| AppCapella | An app that lets you create four-part harmonies. Upload or record up to four videos and you can mix them into one. |Ruby, Sinatra, jQuery, FFMPEG, HTML/CSS, Bootstrap, RSpec, Capybara | https://github.com/marwiz108/appcapella<br>https://appcapella.herokuapp.com/ |
+| Instamars | Ruby on Rails challenge - rebuild instagram on a web browser using Rails - and it's ad free! | Ruby on Rails, HTML/CSS, RSpec | https://github.com/marwiz108/instamars |
+| Bank (Tech Test) | A program that can be run on the Command Line. This challenge is an example of how I used a thorough process from start to finish, testing efficiently and using the Single Responsibility Principle. | Ruby, RSpec | https://github.com/marwiz108/bank-tech-test |
+| Thermostat | My first challenge in JavaScript. For now uncompleted but a good example of learning how to test and code in JavaScript language. | JavaScript, Jasmine | https://github.com/marwiz108/thermostat |
+
 ## Skills
 - Fast, independent learner:<br>
   At Makers I learned two languages throughout the course with very little previous knowledge. We started learning Ruby, and by week 5 I learned JavaScript and developed a tested back-end program in one week. Makers has given me the capability to pick up any language or skill quickly, while focusing on TDD and XP values. I am now learning Java as it is one of the most versatile languages and is platform independent.
